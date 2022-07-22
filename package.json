@@ -1,5 +1,5 @@
 {
-  "name": "app",
+  "name": "nuxt2-app",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -35,8 +35,11 @@
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-nuxt": "^3.1.0",
     "eslint-plugin-vue": "^8.2.0",
+    "flush-promises": "^1.0.2",
     "jest": "^27.4.4",
     "prettier": "^2.5.1",
+    "sass": "^1.53.0",
+    "sass-loader": "10",
     "ts-jest": "^27.1.1",
     "vue-jest": "^3.0.4"
   }
