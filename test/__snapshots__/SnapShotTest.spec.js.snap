@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`コンポーネントのテスト 正しくレンダリングされるか 1`] = `
+<div>
+  <p>
+    Vue Test Utilsを使ったコンポーネントのテスト
+  </p>
+   
+  <p>
+    Vue Test Utilsを使ったコンポーネントのテスト
+  </p>
+</div>
+`;

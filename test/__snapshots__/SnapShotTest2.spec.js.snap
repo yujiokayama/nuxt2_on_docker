@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`コンポーネントのテスト 何もレンダリングされないケース 1`] = `
+<p>
+  
+</p>
+`;
+
+exports[`コンポーネントのテスト 文字列を渡すケース 1`] = `
+<p>
+  Vue Test Utils
+</p>
+`;
