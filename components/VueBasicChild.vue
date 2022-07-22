@@ -5,6 +5,13 @@
 <script>
 export default {
   name: 'VueBasicChild',
+  props: {
+    propsMessage: {
+      type: String,
+      required: false,
+      default: '',
+    },
+  },
   data() {
     return {
       message: '子のイベントが発火されました',
