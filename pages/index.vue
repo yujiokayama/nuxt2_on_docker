@@ -2,6 +2,7 @@
   <div>
     <VueBasicParent />
     <VuexStore />
+    <TestBasicParent />
   </div>
 </template>
 
